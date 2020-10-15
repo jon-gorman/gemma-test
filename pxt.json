@@ -1,0 +1,27 @@
+{
+    "name": "adafruit gemma m0",
+    "description": "",
+    "dependencies": {
+        "adafruit-gemma-m0": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.13.56",
+        "tag": "v0.13.56",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/93e04d3e1e1b7221b04fade7ccbd0ff4c53731db",
+        "target": "0.13.60",
+        "pxt": "6.4.1",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
